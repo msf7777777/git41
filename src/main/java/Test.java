@@ -6,5 +6,7 @@ public class Test {
         System.out.println("Fuck World!");
         // 第三次修改
         System.out.println("麻少飞love张嘉敏");
+        // 第四次修改
+        System.out.println("麻少飞是God！");
     }
 }
